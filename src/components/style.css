@@ -1,0 +1,12 @@
+.frame {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .button-large-primary-wrapper {
+    height: 85px;
+    width: 266px;
+  }
