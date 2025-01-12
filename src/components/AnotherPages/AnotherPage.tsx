@@ -13,12 +13,11 @@ const AnotherPage: React.FC = () => {
       }}
     >
       <img
-        src="https://media.tenor.com/-c0MyfC865cAAAAi/cat.gif" // Replace this URL with the actual image URL
+        src="https://tenor.com/view/peach-cat-gif-26726446" // Replace this URL with the actual image URL
         alt="Placeholder"
         style={{ width: '200px', height: 'auto', marginBottom: '20px' }}
       />
-      <p>eh, maaf banget ya meii pas call aku nggak kedengeran. pasti kamu bete deh, aku jadi nggak enak. tapi jangan khawatir, aku bakal lebih dengerin kamu ke depannya! 😅
-aku tahu kerjaan kamu lagi sibuk banget, tapi kamu tuh keren banget bisa tetap bertahan. semangat terus ya! kalo capek, jangan lupa istirahat, sama kalo ada apa-apa aku ada kok buat kamu. 😊.</p>
+      <p>I'm really sorry, didiiw. 😔 I know this isn’t the first time I’ve let you down. I get that I was wrong for staying in touch with my ex, even if my only intention was to end things properly. I understand it hurt you, and I feel so bad about it. 😞 I love you ❤️, and I’m really sorry for making you feel this way. 🥺.</p>
     </div>
   );
 };

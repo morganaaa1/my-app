@@ -41,7 +41,7 @@ const StyledButton: React.FC = () => {
           alt="Placeholder"
           style={{ width: '200px', height: 'auto', marginBottom: '20px' }}
         />
-        <h3 style={{ marginBottom: '10px' }}>Maafin aku yaa meii 😔😔</h3>
+        <h3 style={{ marginBottom: '10px' }}>Maafin aku yaa didiiw 😔😔</h3>
       </div>
 
       {/* Buttons */}
