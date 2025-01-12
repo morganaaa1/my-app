@@ -13,7 +13,7 @@ const AnotherPage: React.FC = () => {
       }}
     >
       <img
-        src="https://tenor.com/view/peach-cat-gif-26726446" // Replace this URL with the actual image URL
+        src="https://media.tenor.com/vkrhelBGQWIAAAAj/peach-cat.gif" // Replace this URL with the actual image URL
         alt="Placeholder"
         style={{ width: '200px', height: 'auto', marginBottom: '20px' }}
       />
